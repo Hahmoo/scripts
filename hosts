@@ -1,7 +1,0 @@
-127.0.0.1       localhost
-192.168.40.120  chef-server.mitns.com   chef-server
-192.168.40.121  chef-workstation.mitns.com      chef-workstation
-192.168.40.122  node1.mitns.com         node1
-192.168.40.123  node2.mitns.com         node2
-192.168.40.124  node3.mitns.com         node3
-
